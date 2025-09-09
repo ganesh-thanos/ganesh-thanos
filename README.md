@@ -15,3 +15,9 @@
 
 ### IDE and Tools I Use
 <img width="50" height="50" src="https://img.icons8.com/fluency/48/visual-studio-code-2019.png" alt="visual-studio-code-2019"/><img width="50" height="50" src="https://img.icons8.com/color/48/intellij-idea.png" alt="intellij-idea"/><img width="50" height="50" src="https://img.icons8.com/officel/80/java-eclipse.png" alt="java-eclipse"/><img height="50" width="50" src="https://img.icons8.com/color/48/000000/pycharm.png"/><img width="50" height="50" src="https://img.icons8.com/color/48/git.png" alt="git"/><img width="50" height="50" src="https://img.icons8.com/ios/50/notion.png" alt="notion"/>
+
+
+### 💻 Workspace Spec
+<img height="30" src="https://img.shields.io/badge/Macbook-Pro_M1-ED1C24?style=for-the-badge&logo=apple&logoColor=white"/> <img height="30" src="https://img.shields.io/badge/NVIDIA-GTX1650-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/>  <img height="30" src="https://img.shields.io/badge/AMD-Ryzen_5_4600H-ED1C24?style=for-the-badge&logo=amd&logoColor=white"/> 
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/ganesamoorthipeaky?theme=dark&font=Roboto)
